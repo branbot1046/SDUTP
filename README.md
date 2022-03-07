@@ -3,8 +3,8 @@
 
 <p>Autores: Brandon Arley Archila Anaya, Brayan Andrés Quintero Pinto, Juan Pablo Ramírez Vela</p>
 <p>Objetivo: Detectar el uso de tapabocas, gracias por el 3.0</p>
-<p>Dataset: https://drive.google.com/drive/folders/180PShEbtBPTr1UBf4mQIC2GS8NHY25VE?usp=sharing</p>
+<p>Dataset: https://github.com/branbot1046/SDUTP/tree/main/Fotos</p>
 <p>Modelos: MTCNN, Convolutional Neural Networks</p>
-<p>CODE:</p>
+<p>CODE:https://github.com/branbot1046/SDUTP/blob/main/Proyecto_Final_IA_SDUTP.ipynb</p>
 <p>VIDEO:</p>
 <p>REPOSITORY: https://github.com/branbot1046/SDUTP</p>
