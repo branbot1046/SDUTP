@@ -6,5 +6,5 @@
 <p>Dataset: https://github.com/branbot1046/SDUTP/tree/main/Fotos</p>
 <p>Modelos: MTCNN, Convolutional Neural Networks</p>
 <p>CODE:https://github.com/branbot1046/SDUTP/blob/main/Proyecto_Final_IA_SDUTP.ipynb</p>
-<p>VIDEO:</p>
+<p>VIDEO:https://www.youtube.com/watch?v=vcoDRfQLIkE</p>
 <p>REPOSITORY: https://github.com/branbot1046/SDUTP</p>
